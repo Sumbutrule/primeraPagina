@@ -21,8 +21,9 @@ Github es un servicio que nos ofrece repositorios para nuestros proyectos.
 Bitbucket es un servicio que nos ofrece repositorios para nuestros proyectos.
 Gitlab es un servicio que nos ofrece repositorios para nuestros proyectos.
 -------
-> aprendiendo a modificar
-![probando pegar una imagen](image.png)
+> aprendiendo a modificar, a ver que sale. Espero que salga bien. 
+
+
 *Marcar la opcion correcta, ¿Que personaje usa seba en la jg?* 
 
 - [x] Rengar
