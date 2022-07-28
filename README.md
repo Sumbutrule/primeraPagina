@@ -38,5 +38,5 @@ Gitlab es un servicio que nos ofrece repositorios para nuestros proyectos.
 <br>
 <h2> Miren que pro </h2>
 <br>
-Clean your way <a href="https://www.leagueofgraphs.com/es/summoner/las/Clean%20Your%20Way> Ir a League of graph </a> 
+Clean your way https://www.leagueofgraphs.com/es/summoner/las/Clean%20Your%20Way
 
