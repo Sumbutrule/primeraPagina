@@ -42,5 +42,6 @@ Clean your way
 <br>
 https://www.leagueofgraphs.com/es/summoner/las/Clean%20Your%20Way
 <br>
-<img scr="zilean.png.jfif" />
+<h3> Sebita hijo mio </h3>
+
 
