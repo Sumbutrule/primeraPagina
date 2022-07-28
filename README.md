@@ -36,3 +36,6 @@ Gitlab es un servicio que nos ofrece repositorios para nuestros proyectos.
 <p> tenia que escribir siempre la etiqueta con la p adentro</p>
 <p> sino, se iba a escribir todo junto. </p>
 <br>
+<h2> Miren que pro </h2>
+<br>
+<span style="color:blue"> Clean your way </span>
