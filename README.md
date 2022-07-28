@@ -34,5 +34,5 @@ Gitlab es un servicio que nos ofrece repositorios para nuestros proyectos.
 <p> Hoy, dia miercoles 27-07 vi un video de html </p>
 <p> y decia que para que pueda escribir un parrafo </p>
 <p> tenia que escribir siempre la etiqueta con la p adentro</p>
-<p> sino, se iba a escribir todo junto </p>
+<p> sino, se iba a escribir todo junto. </p>
 <br>
