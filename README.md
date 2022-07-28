@@ -38,4 +38,5 @@ Gitlab es un servicio que nos ofrece repositorios para nuestros proyectos.
 <br>
 <h2> Miren que pro </h2>
 <br>
-<span style="color:blue"> Clean your way </span>
+<FONT COLOR="blue"> Clean your way </FONT>
+
